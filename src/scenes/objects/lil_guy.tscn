@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://c1styri1xr5u3"]
+
+[ext_resource type="Script" uid="uid://dmve3ahcd88wb" path="res://src/scenes/objects/lil_guy.gd" id="1_2bec1"]
+
+[node name="lil_guy" type="CharacterBody2D" unique_id=437173188]
+script = ExtResource("1_2bec1")

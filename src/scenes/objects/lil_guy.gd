@@ -1,0 +1,1 @@
+class_name LilGuy extends CharacterBody2D
